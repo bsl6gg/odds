@@ -1,0 +1,9 @@
+Package: odds
+Type: Package
+Title: Function for Odds
+Version: 0.1.0
+Authors@R: person("Brian", "Li", email = "brianli1@yahoo.com", role = c("aut", "cre"))
+Description: Calculate odds
+License: Me
+LazyData: TRUE
+RoxygenNote: 5.0.1
